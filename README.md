@@ -19,7 +19,7 @@ This script will obtain all BSSIDs in a Cisco Meraki organization and build a CS
 * AP Network ID
 * AP Network Name
 
-A sample output csv file looks like the image below.
+A sample output csv file looks like the image below. ![alt text](sample_csv_image.png)
 
 ## How to Use
 
